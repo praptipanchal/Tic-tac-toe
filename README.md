@@ -1,2 +1,2 @@
 # Tic-tac-toe
-My first java tic tac toe game
+A Tic Tac Toe game built using HTML, CSS, and JAVASCRIPT.
